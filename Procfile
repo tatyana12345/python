@@ -1,1 +1,1 @@
-web: gunicorn test.py -b 0.0.0.0:5000
+web: gunicorn test.py
